@@ -2,10 +2,9 @@
   "name": "my-spotify-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ivenoo.github.io/",
+  "homepage": "ivenoo.github.io",
   "dependencies": {
     "axios": "^0.18.0",
-    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
@@ -30,6 +29,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "react-router": "^5.0.0"
   }
 }
