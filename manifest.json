@@ -1,6 +1,6 @@
 {
-  "short_name": "CS:GO",
-  "name": "CS:GO APP",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
